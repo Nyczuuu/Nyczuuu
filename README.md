@@ -14,13 +14,16 @@ Junior Test Engineer with over 2,5 ye
 
 * Databases: MySQL
 * Languages: Javascript (Test Automation)
-* Testing: PlayWright, Postman, 
+* Testing: PlayWright, Postman, SWAGGER
 * Version Control Systems: Git
-* Other tools: JIRA
+* Other tools: JIRA, ZABBIX, ALM Toolkit 
 
 ## Courses -------
 
-* 
+* Kurs: API Testing with Postman - 15 godzinny kurs na YT (https://www.youtube.com/watch?v=vCJVFnepECc&list=PLUDwpEzHYYLs3DYFqm79fIj2QOzPke_fW&pp=iAQB)
+* Kurs: Manual Software Testing - 20 godzinny kurs na YT (https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9)
+* Kurs: SQL Tutorial - 10 godzinny kurs na YT (https://www.youtube.com/watch?v=wifRYaPiiM0&list=PLUDwpEzHYYLvWEwDxZViN1shP-pGyZdtT&index=2&t=23s)
+
 
 
 ## Technical Books read ----
