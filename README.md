@@ -2,7 +2,7 @@
 
 ## About me -----
 
-Test Engineer with over 2,5 year of expierience in functional and non-functional testing. Working in SCRUM methodology, with knowledge of SDLC and STLC. Developing at the moment in API testing (Postman) and after hours creating websites and learning JavaScript.
+Test Engineer with over 2,5 year of expierience in functional and non-functional testing. Working in SCRUM methodology, with knowledge of SDLC and STLC. Developing at the moment in API testing (Postman) and UI Testing (Cypress) and after hours creating websites and learning JavaScript.
 
 
 ## Tools used in testing: ----
