@@ -11,13 +11,15 @@ Test Engineer with over 2,5 year of expierience in functional and non-functional
 * JIRA
 * Bash
 * Command Prompt
+* Cypress
+* Postman
 
 
 ## Tech Stack
 
 * Databases: MySQL, MongoDB
 * Languages: Javascript (Test Automation)
-* Testing: Postman, SWAGGER
+* Testing: Postman, SWAGGER, Cypress
 * Version Control Systems: Git
 * Other tools: JIRA, ZABBIX, ALM Toolkit 
 
@@ -27,6 +29,7 @@ Test Engineer with over 2,5 year of expierience in functional and non-functional
 * Kurs: Manual Software Testing - 20 godzinny kurs na YT (https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9)
 * Kurs: SQL Tutorial - 10 godzinny kurs na YT (https://www.youtube.com/watch?v=wifRYaPiiM0&list=PLUDwpEzHYYLvWEwDxZViN1shP-pGyZdtT&index=2&t=23s)
 * Kurs: Unix/Linux for Testers - 10 godzinny kurs na YT (https://www.youtube.com/playlist?list=PLUDwpEzHYYLtjJWMCJJDoPXjeSfzrCF-F)
+* Kurs: Cypress JavaScript E2E Testing - 15 godzinny kurs na YT (https://www.youtube.com/playlist?list=PLUDwpEzHYYLvA7QFkC1C0y0pDPqYS56iU)
 
 
 ## Groups for knowledge gathering -------
