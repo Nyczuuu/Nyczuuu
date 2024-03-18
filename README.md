@@ -11,7 +11,7 @@ Test Engineer with over 2,5 year of expierience in functional and non-functional
 * JIRA
 * Bash
 * Command Prompt
-* Cypress
+* Cypress / Playwright
 * Postman
 
 
