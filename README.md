@@ -2,7 +2,9 @@
 
 ## About me -----
 
-Test Engineer with over 2,5 year of expierience in functional and non-functional testing. Working in SCRUM methodology, with knowledge of SDLC and STLC. Developing at the moment in API testing (Postman) and UI Testing (Playwright) and after hours designing websites at Figma and develop them.
+Test Engineer with over 2,5 year of expierience in functional and non-functional testing. Working in SCRUM methodology, with knowledge of SDLC and STLC. Developing at the moment in API testing (Postman) and UI Testing (Playwright) and after hours designing websites at Figma and develop them. Searching for GUI/API Tester job.
+
+My Page: https://nyczuuu.github.io/Page/
 
 
 ## Tools used in testing & developing Websites: ----
