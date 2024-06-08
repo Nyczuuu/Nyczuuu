@@ -30,8 +30,9 @@ My Page: https://nyczuuu.github.io/Page/
 * Version Control Systems: Git
 * Other tools: JIRA, ZABBIX, ALM Toolkit, TestRail
 
-## Courses -------
+## Courses & Certificates -------
 
+* Certificate: 10 Days Testing Challenge - Challenge made by Rafał Pozdraza and Jakub Konicki
 * Kurs: API Testing with Postman - (https://www.youtube.com/watch?v=vCJVFnepECc&list=PLUDwpEzHYYLs3DYFqm79fIj2QOzPke_fW&pp=iAQB)
 * Kurs: Manual Software Testing - (https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9)
 * Kurs: SQL Tutorial - (https://www.youtube.com/watch?v=wifRYaPiiM0&list=PLUDwpEzHYYLvWEwDxZViN1shP-pGyZdtT&index=2&t=23s)
