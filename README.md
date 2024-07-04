@@ -24,6 +24,7 @@ My Page: https://nyczuuu.github.io/Page/
 
 * Databases: MySQL, MongoDB
 * Web Building: HTML5, CSS3
+* Back-End: Node.js
 * Languages: Javascript (Test Automation)
 * Testing: Postman, Swagger, Cypress, PlayWright, Docker
 * Design: Figma
