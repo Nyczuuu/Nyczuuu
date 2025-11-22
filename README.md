@@ -1,68 +1,123 @@
-# READ ME!
+# ⭐ README
 
-## About me -----
+## 📌 About Me
 
-Test Engineer with over 2,5 year of expierience in functional and non-functional testing. Working in SCRUM methodology, with knowledge of SDLC and STLC. Developing at the moment in API testing (Postman) and UI Testing (Playwright) and after hours designing websites at Figma and develop them. Searching for IT Support, GUI/API Tester job.
+I am an IT professional with a strong foundation in **web technologies, QA testing, server infrastructure, and Python**.
 
-My Page: https://nyczuuu.github.io/Page/
+My career began in a large-scale hardware environment, where I worked as a Laboratory Technician and later as a Junior Test Engineer for one of the biggest global semiconductor manufacturers (via Sii).  
+There, I assembled, maintained, and tested enterprise-class server components, including DIMM modules, and worked daily with automated Python-based test frameworks, JIRA, and Agile/Scrum workflows.
 
+Currently, I work as a **Senior Support Agent**, handling technical cases related to payments, shipping, bugs, and system issues — while staying close to documentation, debugging, and error analysis.
 
-## Tools used in testing & developing Websites: ----
+After hours, I’m sharpening my skills in:  
+- **Python** (QA + AI development)  
+- **Prompt Engineering & LLMs**  
+- **UI/UX & front-end development**  
+- **Automation testing (Playwright, Cypress)**  
 
-* Chrome Dev Tools
-* Figma
-* TestRail
-* Jira
-* Bash
-* Command Prompt
-* Cypress / Playwright
-* Postman
-* Docker
+I also design and build websites, create prototypes in Figma, and explore how AI can streamline testing workflows and enhance digital experiences.
 
+📄 **Portfolio:** https://nyczuuu.github.io/Page/
 
-## Tech Stack
+---
 
-* Databases: MySQL, MongoDB
-* Web Building: HTML5, CSS3
-* Back-End: Node.js
-* Languages: Javascript (Test Automation)
-* Testing: Postman, Swagger, Cypress, PlayWright, Docker
-* Design: Figma
-* Version Control Systems: Git
-* Other tools: JIRA, ZABBIX, ALM Toolkit, TestRail
+## 🧰 Tech Stack
 
-## Courses & Certificates -------
+### 🖥️ Languages
+- Python  
+- JavaScript (ES6+, automation)  
+- Node.js  
 
-* Certificate: 10 Days Testing Challenge - Challenge made by Rafał Pozdraza and Jakub Konicki
-* Kurs: API Testing with Postman - (https://www.youtube.com/watch?v=vCJVFnepECc&list=PLUDwpEzHYYLs3DYFqm79fIj2QOzPke_fW&pp=iAQB)
-* Kurs: Manual Software Testing - (https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9)
-* Kurs: SQL Tutorial - (https://www.youtube.com/watch?v=wifRYaPiiM0&list=PLUDwpEzHYYLvWEwDxZViN1shP-pGyZdtT&index=2&t=23s)
-* Kurs: Unix/Linux for Testers - (https://www.youtube.com/playlist?list=PLUDwpEzHYYLtjJWMCJJDoPXjeSfzrCF-F)
-* Kurs: Cypress JavaScript E2E Testing - (https://www.youtube.com/playlist?list=PLUDwpEzHYYLvA7QFkC1C0y0pDPqYS56iU)
-* Kurs: Playwright - Praktyczne wprowadzenie do testów automatycznych - (https://www.youtube.com/playlist?list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7)
-* Kurs: Docker - (https://www.youtube.com/watch?v=3c-iBn73dDE&list=LL&index=7&t=97s)
+### 🌐 Web Development
+- HTML5  
+- CSS3 (RWD, Pixel Perfect, SASS)  
+- Figma UI design  
+- Landing Pages  
 
+### 🗄️ Databases
+- MySQL  
+- MongoDB  
 
-## Groups for knowledge gathering -------
+### 🧪 Testing
+- Postman (API Testing)  
+- Swagger  
+- Cypress  
+- Playwright  
+- Chrome DevTools  
+- TestRail  
+- Docker (testing environments)
 
-* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
-* [Kevin Powell Community - Discord]
-* [Type Of Web - Polski Frontend i Backend - Discord]
-* [Zaprogramuj Życie - Discord]
+### 🛠️ Infrastructure & Tools
+- Git / Git Bash  
+- Windows Server  
+- Command Prompt  
+- JIRA  
+- Zabbix  
+- ALM Toolkit  
 
+### 📚 Other
+- Agile / SCRUM  
+- Prompt Engineering  
+- LLMs  
 
-## Blogs read -----
+---
 
-* [testerzy.pl](http://testerzy.pl)
-* [hackernoon.com](https://hackernoon.com)
-* [devstyle.pl](https://devstyle.pl/)
-* [Automatetheplanet.com](https://www.automatetheplanet.com/blog/)
+## 🔧 Tools Used in Testing & Development
 
-## My Test Documentation
+- Chrome DevTools  
+- Figma  
+- TestRail  
+- JIRA  
+- Bash  
+- Command Prompt  
+- Cypress  
+- Playwright  
+- Postman  
+- Docker  
 
-* Bug Reports
-* Test Reports
-* Test Cases
-* Test Scenarios
+---
 
+## 🎓 Courses & Certificates
 
+- **Certificate:** 10 Days Testing Challenge — Rafał Pozdraza & Jakub Konicki  
+- Manual Software Testing  
+- API Testing with Postman  
+- SQL Tutorial  
+- Unix/Linux for Testers  
+- Cypress – JavaScript E2E Testing  
+- Playwright – Automated Testing  
+- Docker Fundamentals  
+
+---
+
+## 🧑‍🤝‍🧑 Communities
+
+- Testowanie Oprogramowania — PRACA  
+- Kevin Powell Community — Discord  
+- Type of Web — Discord  
+- Zaprogramuj Życie — Discord  
+
+---
+
+## 📚 Blogs I Follow
+
+- testerzy.pl  
+- hackernoon.com  
+- devstyle.pl  
+- automatetheplanet.com  
+
+---
+
+## 📝 My Test Documentation
+
+- Bug Reports  
+- Test Cases  
+- Test Scenarios  
+- Test Reports  
+
+---
+
+## 🧩 Additional Projects
+
+- Commercial landing page for Dorplon  
+- Multiple personal landing p
