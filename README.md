@@ -4,7 +4,7 @@
 
 I am an IT professional with a strong foundation in **web technologies, QA testing, server infrastructure, and Python**.
 
-My career began in a large-scale hardware environment, where I worked as a Laboratory Technician and later as a Junior Test Engineer for one of the biggest global semiconductor manufacturers (via Sii).  
+My career began in a large-scale hardware environment, where I worked as a Laboratory Technician and later as a Junior Test Engineer for one of the biggest global semiconductor manufacturers.  
 There, I assembled, maintained, and tested enterprise-class server components, including DIMM modules, and worked daily with automated Python-based test frameworks, JIRA, and Agile/Scrum workflows.
 
 Currently, I work as a **Senior Support Agent**, handling technical cases related to payments, shipping, bugs, and system issues — while staying close to documentation, debugging, and error analysis.
@@ -15,7 +15,7 @@ After hours, I’m sharpening my skills in:
 - **UI/UX & front-end development**  
 - **Automation testing (Playwright, Cypress)**  
 
-I also design and build websites, create prototypes in Figma, and explore how AI can streamline testing workflows and enhance digital experiences.
+Also after hours I design and build websites, create prototypes in Figma, and explore how AI can streamline testing workflows and enhance digital experiences.
 
 📄 **Portfolio:** https://nyczuuu.github.io/Page/
 
@@ -35,7 +35,6 @@ I also design and build websites, create prototypes in Figma, and explore how AI
 - Landing Pages  
 
 ### 🗄️ Databases
-- MySQL  
 - MongoDB  
 
 ### 🧪 Testing
@@ -52,7 +51,6 @@ I also design and build websites, create prototypes in Figma, and explore how AI
 - Windows Server  
 - Command Prompt  
 - JIRA  
-- Zabbix  
 - ALM Toolkit  
 
 ### 📚 Other
@@ -63,7 +61,6 @@ I also design and build websites, create prototypes in Figma, and explore how AI
 ---
 
 ## 🔧 Tools Used in Testing & Development
-
 - Chrome DevTools  
 - Figma  
 - TestRail  
@@ -78,7 +75,6 @@ I also design and build websites, create prototypes in Figma, and explore how AI
 ---
 
 ## 🎓 Courses & Certificates
-
 - **Certificate:** 10 Days Testing Challenge — Rafał Pozdraza & Jakub Konicki  
 - Manual Software Testing  
 - API Testing with Postman  
@@ -91,11 +87,10 @@ I also design and build websites, create prototypes in Figma, and explore how AI
 ---
 
 ## 🧑‍🤝‍🧑 Communities
-
-- Testowanie Oprogramowania — PRACA  
+- Testowanie Oprogramowania 
 - Kevin Powell Community — Discord  
 - Type of Web — Discord  
-- Zaprogramuj Życie — Discord  
+- Zaprogramuj Życie — Discord 
 
 ---
 
@@ -104,12 +99,16 @@ I also design and build websites, create prototypes in Figma, and explore how AI
 - testerzy.pl  
 - hackernoon.com  
 - devstyle.pl  
-- automatetheplanet.com  
+- automatetheplanet.com
+- ministryoftesting.com
+- dribbble.com
+- aimagazine.com
+- kdnuggets.com
+- behance.net
 
 ---
 
 ## 📝 My Test Documentation
-
 - Bug Reports  
 - Test Cases  
 - Test Scenarios  
@@ -118,6 +117,4 @@ I also design and build websites, create prototypes in Figma, and explore how AI
 ---
 
 ## 🧩 Additional Projects
-
-- Commercial landing page for Dorplon  
-- Multiple personal landing p
+- Commercial landing page for Dorplon.pl  
