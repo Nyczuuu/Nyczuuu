@@ -2,49 +2,61 @@
 
 ## 📌 About Me
 
-I am an IT professional with a strong foundation in **web technologies, QA testing, server infrastructure, and Python**.
+I am an IT professional specializing in **QA testing, test automation, and AI-driven workflows**.
 
 My career began in a large-scale hardware environment, where I worked as a Laboratory Technician and later as a Junior Test Engineer for one of the biggest global semiconductor manufacturers.  
-There, I assembled, maintained, and tested enterprise-class server components, including DIMM modules, and worked daily with automated Python-based test frameworks, JIRA, and Agile/Scrum workflows.
+I was responsible for assembling, maintaining, and testing enterprise-class server components (including DIMM modules), while working with Python-based test frameworks, JIRA, and Agile/Scrum workflows.
 
-Currently, I work as a **Senior Support Agent**, handling technical cases related to payments, shipping, bugs, and system issues — while staying close to documentation, debugging, and error analysis.
+Currently, I am focused on transitioning fully into **QA Automation / AI-driven testing roles**.
 
-After hours, I’m sharpening my skills in:  
-- **Python** (QA + AI development)  
-- **Prompt Engineering & LLMs**  
-- **UI/UX & front-end development**  
-- **Automation testing (Playwright, Cypress)**  
+After hours, I actively develop my expertise in:
 
-Also after hours I design and build websites, create prototypes in Figma, and explore how AI can streamline testing workflows and enhance digital experiences.
+- **Test Automation (Playwright, Cypress, End-to-End testing)**  
+- **API Testing (Postman, automation workflows)**  
+- **JavaScript & TypeScript (testing + backend basics)**  
+- **Python (automation & AI integration)**  
+- **AI Automation (n8n, LLMs, prompt engineering, AI agents)**  
+
+I am particularly interested in combining **software testing with AI automation**, building workflows that reduce manual effort and improve testing efficiency.
 
 📄 **Portfolio:** https://nyczuuu.github.io/Page/
+📄 **MindBotics — Web & Automation Solutions**  
+   Personal brand focused on building modern websites and implementing AI-driven automation for businesses.  
+   Includes landing pages, workflow automation, and API integrations.  
+  🔗 https://mindbottic.pl
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 🖥️ Languages
-- Python  
-- JavaScript (ES6+, automation)  
-- Node.js  
+- Python  (begginer)
+- JavaScript (ES6+, TS) (begginer)
 
 ### 🌐 Web Development
 - HTML5  
-- CSS3 (RWD, Pixel Perfect, SASS)  
-- Figma UI design  
-- Landing Pages  
+- CSS3 (RWD, SASS, Pixel Perfect)  
+- React.js  
+- Next.js
+- Node.js 
+- Figma (UI design)
 
 ### 🗄️ Databases
 - MongoDB  
 
 ### 🧪 Testing
-- Postman (API Testing)  
-- Swagger  
+- Playwright (E2E testing)  
 - Cypress  
-- Playwright  
+- Postman (API Testing)  
 - Chrome DevTools  
 - TestRail  
-- Docker (testing environments)
+- Docker (test environments)
+
+### 🤖 AI & Automation
+- n8n (workflow automation)  
+- Prompt Engineering  
+- LLMs (AI integration in testing & workflows)  
+- API Automation  
 
 ### 🛠️ Infrastructure & Tools
 - Git / Git Bash  
@@ -55,22 +67,21 @@ Also after hours I design and build websites, create prototypes in Figma, and ex
 
 ### 📚 Other
 - Agile / SCRUM  
-- Prompt Engineering  
-- LLMs  
+- Test Documentation  
+- Debugging & Error Analysis  
 
 ---
 
 ## 🔧 Tools Used in Testing & Development
-- Chrome DevTools  
-- Figma  
-- TestRail  
-- JIRA  
-- Bash  
-- Command Prompt  
-- Cypress  
 - Playwright  
+- Cypress  
 - Postman  
+- Chrome DevTools  
+- JIRA  
+- TestRail  
 - Docker  
+- Figma  
+- Bash / Command Line  
 
 ---
 
@@ -81,30 +92,32 @@ Also after hours I design and build websites, create prototypes in Figma, and ex
 - SQL Tutorial  
 - Unix/Linux for Testers  
 - Cypress – JavaScript E2E Testing  
-- Playwright – Automated Testing  
+- Playwright – Automated Testing
+- AI Powered Test Automation w/ Playwright MCP, GitHub CoPilot & VSCode
+- Figma for UX/UI
+- Git + GitHub
 - Docker Fundamentals  
 
 ---
 
 ## 🧑‍🤝‍🧑 Communities
-- Testowanie Oprogramowania 
+- Testowanie Oprogramowania  
 - Kevin Powell Community — Discord  
 - Type of Web — Discord  
-- Zaprogramuj Życie — Discord 
+- Zaprogramuj Życie — Discord  
 
 ---
 
 ## 📚 Blogs I Follow
-
 - testerzy.pl  
 - hackernoon.com  
 - devstyle.pl  
-- automatetheplanet.com
-- ministryoftesting.com
-- dribbble.com
-- aimagazine.com
-- kdnuggets.com
-- behance.net
+- automatetheplanet.com  
+- ministryoftesting.com  
+- dribbble.com  
+- aimagazine.com  
+- kdnuggets.com  
+- behance.net  
 
 ---
 
@@ -117,4 +130,14 @@ Also after hours I design and build websites, create prototypes in Figma, and ex
 ---
 
 ## 🧩 Additional Projects
-- Commercial landing page for Dorplon.pl  
+
+- **AI Workflow Agent for Fitness Coaches**  
+  Automation system built with n8n that generates personalized social media content, manages posting workflows, and streamlines client communication using AI.
+
+- **MindBotics — Web & Automation Solutions**  
+  Personal brand focused on building modern websites and implementing AI-driven automation for businesses.  
+  Includes landing pages, workflow automation, and API integrations.  
+  🔗 https://mindbottic.pl
+
+- **Commercial Landing Page for Dorplon.pl**  
+  Designed and developed a responsive landing page focused on performance and conversion.
