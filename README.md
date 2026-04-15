@@ -25,7 +25,7 @@ I am particularly interested in combining **software testing with AI automation*
 📄 **MindBotics — Web & Automation Solutions**  
    Personal brand focused on building modern websites and implementing AI-driven automation for businesses.  
    Includes landing pages, workflow automation, and API integrations.  
-  🔗 https://mindbottic.pl
+  🔗 https://mindbotics.pl
 
 ---
 
