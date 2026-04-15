@@ -19,7 +19,7 @@ After hours, I actively develop my expertise in:
 
 I am particularly interested in combining **software testing with AI automation**, building workflows that reduce manual effort and improve testing efficiency.
 
-📄 **Portfolio:** https://nyczuuu.github.io/Page/
+📄 **Portfolio:** https://nyczuuu.github.io/milosz-qa-portfolio/
 
 
 📄 **MindBotics — Web & Automation Solutions**  
