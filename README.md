@@ -20,6 +20,8 @@ After hours, I actively develop my expertise in:
 I am particularly interested in combining **software testing with AI automation**, building workflows that reduce manual effort and improve testing efficiency.
 
 📄 **Portfolio:** https://nyczuuu.github.io/Page/
+
+
 📄 **MindBotics — Web & Automation Solutions**  
    Personal brand focused on building modern websites and implementing AI-driven automation for businesses.  
    Includes landing pages, workflow automation, and API integrations.  
